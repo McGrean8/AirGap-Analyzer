@@ -12,7 +12,7 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 ## 🎥 Prezentacja Systemu (Skrót)
 
-<video src="AirGap.Analyzer-Short.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Short.mp4" controls="controls" width="100%"></video>
 
 > ☝️ **Krótkie podsumowanie możliwości systemu i przepływu analizy.**
 
@@ -28,30 +28,30 @@ System przetwarza potężne zbiory danych, automatycznie rozpoznając ich strukt
 ### 2. Analiza Przestrzenna (Mapa Geo)
 Wizualizacja pochodzenia danych na interaktywnej mapie świata. Moduł pozwala na błyskawiczne zidentyfikowanie geograficznych epicentrów wycieku – wskazując dokładnie, z jakich krajów pochodzą rekordy i gdzie jest ich najwięcej.
 
-<video src="AirGap.Analyzer-Mapa.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Mapa.mp4" controls="controls" width="100%"></video>
 
 ![Mapa Geo](AirGap%20Analyzer-Mapa-ss.jpg)
 
 ### 3. Graf Powiązań
 Sieć powiązań wygenerowana na podstawie analizy. Wizualizuje skomplikowane relacje między poszczególnymi osobami, ich lokalizacją oraz wykorzystywanymi domenami (np. gmail.com, hotmail.com). To potężne narzędzie do demaskowania ukrytych sieci powiązań.
 
-<video src="AirGap.Analyzer-Graf.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Graf.mp4" controls="controls" width="100%"></video>
 
 ![Graf Powiązań](AirGap%20Analyzer-Graf-ss.jpg)
 
 ### 4. Dziennik Aktywności Śledczej (Raportowanie)
 Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje kompleksowe raporty logujące sumy kontrolne plików, użyte prompty i zwrócone dane dowodowe, takie jak zidentyfikowane adresy e-mail, loginy, hasła czy numery IP. Pozwala również na bezpieczne maskowanie informacji wrażliwych przed eksportem.
 
-Pełny wygenerowany dokument z audytem (HTML) możesz sprawdzić tutaj: **[📄 ZOBACZ PEŁNY RAPORT ŚLEDCZY](Dziennik_Operacyjny.html)**.
+Pełny wygenerowany dokument z audytem (HTML) możesz sprawdzić tutaj: **[📄 ZOBACZ PEŁNY RAPORT ŚLEDCZY](https://htmlpreview.github.io/?https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/Dziennik_Operacyjny.html)**.
 
-<video src="AirGap.Analyzer-Raport.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Raport.mp4" controls="controls" width="100%"></video>
 
 ---
 
 ## 🤖 Agent AI w akcji (Lokalna LLaMA)
 Zobacz, jak wbudowany chat bot błyskawicznie radzi sobie z analizą ustrukturyzowanej bazy danych, przyjmując komendy od analityka i dokonując zapytań lokalnie – bez żadnego połączenia z internetem.
 
-<video src="AirGap.Analyzer-Chat.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Chat.mp4" controls="controls" width="100%"></video>
 
 ---
 
