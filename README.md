@@ -12,7 +12,7 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 ## 🎥 Prezentacja Systemu (Skrót)
 
-<video src="https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Short.mp4" controls="controls" width="100%"></video>
+https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Short.mp4
 
 > ☝️ **Krótkie podsumowanie możliwości systemu i przepływu analizy.**
 
