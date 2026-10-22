@@ -12,7 +12,8 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 ## 🎥 Prezentacja Systemu (Skrót)
 
-<video src="(https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Short.mp4)" controls="controls" width="100%"></video>
+https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Short.mp4
+
 > **[WIDEO: Zobacz krótkie podsumowanie możliwości systemu]** 
 
 ---
@@ -22,28 +23,31 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 ### 1. Dashboard Systemowy i Akwizycja
 System przetwarza potężne zbiory danych, automatycznie rozpoznając ich strukturę. Wbudowany, odizolowany skaner oblicza entropię pliku i ocenia poziom zagrożenia (malware) przed dopuszczeniem danych do analizy.
 
-![Dashboard Systemowy](AirGap Analyzer-Dashboard.jpg)
+![Dashboard Systemowy](AirGap%20Analyzer-Dashboard.jpg)
 
 ### 2. Analiza Przestrzenna (Mapa Geo)
 Wizualizacja pochodzenia danych na interaktywnej mapie świata. Moduł pozwala na błyskawiczne zidentyfikowanie geograficznych epicentrów wycieku – wskazując dokładnie, z jakich krajów pochodzą rekordy i gdzie jest ich najwięcej.
 
-<video src="https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Mapa.mp4" controls="controls" width="100%"></video>
+https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Mapa.mp4
+
 > **[WIDEO: Przegląd danych na Mapie Geo]**
 
-![Mapa Geo](AirGap Analyzer-Mapa-ss.jpg)
+![Mapa Geo](AirGap%20Analyzer-Mapa-ss.jpg)
 
 ### 3. Graf Powiązań
 Sieć powiązań wygenerowana na podstawie analizy. Wizualizuje skomplikowane relacje między poszczególnymi osobami, ich lokalizacją oraz wykorzystywanymi domenami (np. gmail.com, hotmail.com). To potężne narzędzie do demaskowania ukrytych sieci powiązań.
 
-<video src="https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Graf.mp4" controls="controls" width="100%"></video>
+https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Graf.mp4
+
 > **[WIDEO: Eksploracja Grafu Powiązań]**
 
-![Graf Powiązań](AirGap Analyzer-Graf-ss.jpg)
+![Graf Powiązań](AirGap%20Analyzer-Graf-ss.jpg)
 
 ### 4. Dziennik Aktywności Śledczej (Raportowanie)
 Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje kompleksowe raporty logujące sumy kontrolne plików, użyte prompty i zwrócone dane dowodowe. Pozwala również na bezpieczne maskowanie informacji wrażliwych przed eksportem.
 
-<video src="https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Raport.mp4" controls="controls" width="100%"></video>
+https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Raport.mp4
+
 > **[WIDEO: Generowanie Dziennika Operacyjnego]**
 
 ---
@@ -51,14 +55,14 @@ Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje
 ## 🤖 Agent AI w akcji (Lokalna LLaMA)
 Zobacz, jak wbudowany chat bot błyskawicznie radzi sobie z analizą ustrukturyzowanej bazy danych, przyjmując komendy od analityka i dokonując zapytań lokalnie – bez żadnego połączenia z internetem.
 
-<video src="https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Chat.mp4" controls="controls" width="100%"></video>
+https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Chat.mp4
+
 > **[WIDEO: Chat bot AI - Pełny zapis analizy danych]**
 
 ---
 
 ## ⚙️ Wykorzystane Technologie
-* **AI & Przetwarzanie Języka:** Platforma `Ollama`, modele rodziny `LLaMA`
-* **Interfejs & Wizualizacje:** `PyQt6`, `Plotly` (Geo Analytics), `PyVis` (Network Graphs)
-* **Silnik Bazy Danych:** `DuckDB` (In-Memory Processing)
-* **Przetwarzanie Danych:** `Pandas`
-
+- **AI & Przetwarzanie Języka:** Platforma `Ollama`, modele rodziny `LLaMA`
+- **Interfejs & Wizualizacje:** `PyQt6`, `Plotly` (Geo Analytics), `PyVis` (Network Graphs)
+- **Silnik Bazy Danych:** `DuckDB` (In-Memory Processing)
+- **Przetwarzanie Danych:** `Pandas`
