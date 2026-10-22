@@ -12,9 +12,8 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 ## 🎥 Prezentacja Systemu (Skrót)
 
-https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Short.mp4
-
-> **[WIDEO: Zobacz krótkie podsumowanie możliwości systemu]** 
+[![Dashboard Systemowy](AirGap%20Analyzer-Dashboard.jpg)](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Short.mp4)
+> ☝️ **Kliknij w obrazek powyżej, aby odtworzyć wideo z podsumowaniem możliwości systemu.**
 
 ---
 
@@ -23,41 +22,32 @@ https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyz
 ### 1. Dashboard Systemowy i Akwizycja
 System przetwarza potężne zbiory danych, automatycznie rozpoznając ich strukturę. Wbudowany, odizolowany skaner oblicza entropię pliku i ocenia poziom zagrożenia (malware) przed dopuszczeniem danych do analizy.
 
-![Dashboard Systemowy](AirGap%20Analyzer-Dashboard.jpg)
-
 ### 2. Analiza Przestrzenna (Mapa Geo)
 Wizualizacja pochodzenia danych na interaktywnej mapie świata. Moduł pozwala na błyskawiczne zidentyfikowanie geograficznych epicentrów wycieku – wskazując dokładnie, z jakich krajów pochodzą rekordy i gdzie jest ich najwięcej.
 
-https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Mapa.mp4
-
-> **[WIDEO: Przegląd danych na Mapie Geo]**
-
-![Mapa Geo](AirGap%20Analyzer-Mapa-ss.jpg)
+[![Mapa Geo](AirGap%20Analyzer-Mapa-ss.jpg)](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Mapa.mp4)
+> ☝️ **Kliknij w obrazek, aby odtworzyć wideo z przeglądem danych na Mapie Geo.**
 
 ### 3. Graf Powiązań
 Sieć powiązań wygenerowana na podstawie analizy. Wizualizuje skomplikowane relacje między poszczególnymi osobami, ich lokalizacją oraz wykorzystywanymi domenami (np. gmail.com, hotmail.com). To potężne narzędzie do demaskowania ukrytych sieci powiązań.
 
-https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Graf.mp4
-
-> **[WIDEO: Eksploracja Grafu Powiązań]**
-
-![Graf Powiązań](AirGap%20Analyzer-Graf-ss.jpg)
+[![Graf Powiązań](AirGap%20Analyzer-Graf-ss.jpg)](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Graf.mp4)
+> ☝️ **Kliknij w obrazek, aby odtworzyć wideo z eksploracji Grafu Powiązań.**
 
 ### 4. Dziennik Aktywności Śledczej (Raportowanie)
-Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje kompleksowe raporty logujące sumy kontrolne plików, użyte prompty i zwrócone dane dowodowe. Pozwala również na bezpieczne maskowanie informacji wrażliwych przed eksportem.
+Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje kompleksowe raporty logujące sumy kontrolne plików, użyte prompty i zwrócone dane dowodowe, takie jak zidentyfikowane adresy e-mail, loginy, hasła czy numery IP. Pozwala również na bezpieczne maskowanie informacji wrażliwych przed eksportem.
 
-https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Raport.mp4
+Pełny wygenerowany dokument z audytem (PDF/HTML) możesz sprawdzić tutaj: **[📄 ZOBACZ PEŁNY RAPORT ŚLEDCZY](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/Dziennik_Operacyjny.html)**.
 
-> **[WIDEO: Generowanie Dziennika Operacyjnego]**
+[![Dziennik Aktywności](AirGap%20Analyzer-Raport-ss.jpg)](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Raport.mp4)
+> ☝️ **Kliknij w obrazek, aby odtworzyć wideo z generowania Dziennika Operacyjnego.**
 
 ---
 
 ## 🤖 Agent AI w akcji (Lokalna LLaMA)
 Zobacz, jak wbudowany chat bot błyskawicznie radzi sobie z analizą ustrukturyzowanej bazy danych, przyjmując komendy od analityka i dokonując zapytań lokalnie – bez żadnego połączenia z internetem.
 
-https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Chat.mp4
-
-> **[WIDEO: Chat bot AI - Pełny zapis analizy danych]**
+**[▶️ KLIKNIJ TUTAJ, ABY ZOBACZYĆ PEŁNY ZAPIS ANALIZY PRZEZ AGENTA AI](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/AirGap.Analyzer-Chat.mp4)**
 
 ---
 
