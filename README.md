@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-
 AirGap%20Analyzer-Short.mp4
 --------------
 
-AirGap%20Analyzer-Dashboard.jpg
+![Dashboard Systemowy](AirGap%20Analyzer-Dashboard.jpg)
 
 > ☝️ **Krótkie podsumowanie możliwości systemu i przepływu analizy.**
 
