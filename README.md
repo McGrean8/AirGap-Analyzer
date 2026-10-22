@@ -14,6 +14,12 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 https://raw.githubusercontent.com/McGrean8/AirGap-Analyzer/main/AirGap.Analyzer-Short.mp4
 
+---------------
+AirGap%20Analyzer-Short.mp4
+--------------
+
+AirGap%20Analyzer-Dashboard.jpg
+
 > ☝️ **Krótkie podsumowanie możliwości systemu i przepływu analizy.**
 
 ---
