@@ -19,6 +19,12 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 ---
 <video src="AirGap%20Analyzer-Short.mp4" width="100%" autoplay loop muted playsinline></video>
 
+
+
+https://github.com/user-attachments/assets/2b73951d-e8e8-4d9f-9e6a-773411bf559b
+
+
+
 ## 📸 Funkcjonalności i Moduły
 
 ### 1. Dashboard Systemowy i Akwizycja
