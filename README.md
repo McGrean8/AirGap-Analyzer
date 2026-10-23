@@ -22,6 +22,10 @@ Najważniejszą cechą projektu jest jego architektura bezpieczeństwa: to wszys
 
 
 https://github.com/user-attachments/assets/2b73951d-e8e8-4d9f-9e6a-773411bf559b
+--------------------
+
+<video src="https://github.com/user-attachments/assets/2b73951d-e8e8-4d9f-9e6a-773411bf559b" width="100%" autoplay loop muted playsinline></video>
+
 
 
 
