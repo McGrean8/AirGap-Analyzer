@@ -37,10 +37,10 @@ Sieć powiązań wygenerowana na podstawie analizy. Wizualizuje skomplikowane re
 
 https://github.com/user-attachments/assets/af9b1a8f-b126-4550-b94b-2a9d638ecb99
 
-### 4. Dziennik Aktywności Śledczej (Raportowanie)
+### 4. Dziennik Aktywności (Raport)
 Moduł realizujący wymagania informatyki śledczej (Chain of Custody). Generuje kompleksowe raporty logujące sumy kontrolne plików, użyte prompty i zwrócone dane dowodowe, takie jak zidentyfikowane adresy e-mail, loginy, hasła czy numery IP. Pozwala również na bezpieczne maskowanie informacji wrażliwych przed eksportem.
 
-Pełny wygenerowany dokument z audytem (plik HTML) możesz sprawdzić i pobrać na dysk tutaj: **[📄 ZOBACZ PEŁNY RAPORT ŚLEDCZY](Dziennik_Operacyjny.html)**.
+Pełny wygenerowany dokument z audytem (plik HTML) możesz sprawdzić i pobrać na dysk tutaj: **[Raport](https://github.com/McGrean8/AirGap-Analyzer/releases/download/v1.0/Dziennik_Operacyjny.html)**
 
 https://github.com/user-attachments/assets/cadead0f-d31d-4c68-bf50-3abffd769b88
 
@@ -50,6 +50,7 @@ https://github.com/user-attachments/assets/cadead0f-d31d-4c68-bf50-3abffd769b88
 Zobacz, jak wbudowany chat bot błyskawicznie radzi sobie z analizą ustrukturyzowanej bazy danych, przyjmując komendy od analityka i dokonując zapytań lokalnie, bez połączenia z internetem.
 
 https://github.com/user-attachments/assets/0e23d96a-1e7b-4721-bebe-237dfc0996e9
+
 ---
 
 ## ⚙️ Wykorzystane Technologie
